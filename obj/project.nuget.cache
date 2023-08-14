@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPTP6f3mhCaN3bW0FwwjZpw3a75V7r2wD/ro5Ux1llmMC11yRZIoPeS5Qk2vw/pE7Qj9jW9NTh8UNmAjxIk3jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\project\\WebApplication2\\Crud_api_first.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
